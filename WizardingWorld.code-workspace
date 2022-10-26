@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "name": "Client",
+      "path": "WizardingWorldClient"
+    },
+    {
+      "name": "Server",
+      "path": "WizardingWorld"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#8f8faa",
+      "activityBar.background": "#8f8faa",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#a73838",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#e7e7e799",
+      "sash.hoverBorder": "#8f8faa",
+      "statusBar.background": "#727294",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#8f8faa",
+      "statusBarItem.remoteBackground": "#727294",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#727294",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#72729499",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#727294"
+  }
+}
